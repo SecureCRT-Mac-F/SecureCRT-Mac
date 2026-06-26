@@ -16,7 +16,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://www.vandyke.com/images/screenshots/securecrt/SCRT_9.7_Mac_CommandManager.png" alt="SecureCRT — macOS terminal emulator and SSH client screenshot" width="780"/>
+  <img src="https://www.vandyke.com/images/screenshots/securecrt/SCRT_9.7_Mac_SessionConfiguration.png" alt="SecureCRT — macOS terminal emulator and SSH client screenshot" width="780"/>
 </p>
 
 ---
